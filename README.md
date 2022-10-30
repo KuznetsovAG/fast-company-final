@@ -18,11 +18,11 @@
 
 ## Users page
 
-![Image text](https://user-images.githubusercontent.com/88052358/198865118-0d5ca4c2-a88c-4594-ae35-762e91c0485d.png)
+![Image text](https://user-images.githubusercontent.com/88052358/198866593-60f5879f-b9b2-4b90-993c-00c092b24965.png)
 
 ### User filtering
 
-![Image text](https://user-images.githubusercontent.com/88052358/198865389-cb912b43-b393-4c3f-bc47-7497d25d36f2.png)
+![Image text](https://user-images.githubusercontent.com/88052358/198866565-13c140b4-c876-4666-84f0-cf71327428f4.png)
 
 ## User page
 
